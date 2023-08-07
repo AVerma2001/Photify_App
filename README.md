@@ -10,5 +10,3 @@ This is the source code for Photify_App.<br>
 - Tap & Preview the image.<br>
 - Download Image to device.<br><br>
 
-
-
